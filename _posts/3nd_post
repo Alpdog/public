@@ -1,0 +1,35 @@
+<div class="initial-content">
+      <p><img alt="Topic 2" src="/public/images/topic2.png"></p>
+
+<h1 id="ssafy-start-camp-챗봇-퀘스트">SSAFY Start Camp 챗봇 퀘스트</h1>
+
+<p>서울_9_장진원, https://github.com/alpdog</p>
+
+<h2 id="i-스펙specification">I. 스펙(Specification)</h2>
+<hr>
+
+<p>구현된 어플리케이션의 주요 기능</p>
+<h4 id="1- 롤 전적 확인 기능-1">(1) 롤 전적 확인 기능</h4>
+<ul>
+  <li>롤 전적 사이트에서 크롤링을 하여 상대방의 전적을 확인한다.</li>
+  <li>그 외에 상대방의 주요 포지션 등을 확인한다.</li>
+</ul>
+
+<h2 id="ii-회고retrospective">II. 회고(Retrospective)</h2>
+<hr>
+
+<p>어플리케이션 구현 과정에서의 어려움과 문제점</p>
+<ul>
+  <li>데이터를 크롤링 할 때 주기적으로 바뀌는 정보(스코어, kda 등)를 얻어오는 것이 어려움을 겪었다.</li>
+</ul>
+
+<h3 id="iii-보완-계획feedback">III. 보완 계획(Feedback)</h3>
+<hr>
+
+<p>현재 미완성이지만 추가로 구현할 기능 및 기존 문제점 보완 계획</p>
+<h4 id="1- 리플레이 저장 기능-1">(1) 리플레이 저장 기능</h4>
+<ul>
+  <li> 경기 결과, 좋은 스코어를 받은 경우 리플레이를 자동 저장한다.</li>
+</ul>
+
+    </div>
