@@ -1,32 +1,245 @@
-<p><img alt="Topic 2" src="/public/images/topic2.png"></p>
+<html class="js fontawesome-i2svg-active fontawesome-i2svg-complete" lang="en"><head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Topic - 2주차 리뷰 - SSAFY 2018-2019</title>
+<meta name="description" content="Samsung Software Academy for Youth">
+
+
+
+<meta content="website" property="og:type">
+<meta content="en_US" property="og:locale">
+<meta content="SSAFY 2018-2019" property="og:site_name">
+<meta content="Topic - 2주차 리뷰" property="og:title">
+<meta content="https://ssafy2018.github.io/public/Topic2/" property="og:url">
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+<style type="text/css">svg:not(:root).svg-inline--fa{overflow:visible}.svg-inline--fa{display:inline-block;font-size:inherit;height:1em;overflow:visible;vertical-align:-.125em}.svg-inline--fa.fa-lg{vertical-align:-.225em}.svg-inline--fa.fa-w-1{width:.0625em}.svg-inline--fa.fa-w-2{width:.125em}.svg-inline--fa.fa-w-3{width:.1875em}.svg-inline--fa.fa-w-4{width:.25em}.svg-inline--fa.fa-w-5{width:.3125em}.svg-inline--fa.fa-w-6{width:.375em}.svg-inline--fa.fa-w-7{width:.4375em}.svg-inline--fa.fa-w-8{width:.5em}.svg-inline--fa.fa-w-9{width:.5625em}.svg-inline--fa.fa-w-10{width:.625em}.svg-inline--fa.fa-w-11{width:.6875em}.svg-inline--fa.fa-w-12{width:.75em}.svg-inline--fa.fa-w-13{width:.8125em}.svg-inline--fa.fa-w-14{width:.875em}.svg-inline--fa.fa-w-15{width:.9375em}.svg-inline--fa.fa-w-16{width:1em}.svg-inline--fa.fa-w-17{width:1.0625em}.svg-inline--fa.fa-w-18{width:1.125em}.svg-inline--fa.fa-w-19{width:1.1875em}.svg-inline--fa.fa-w-20{width:1.25em}.svg-inline--fa.fa-pull-left{margin-right:.3em;width:auto}.svg-inline--fa.fa-pull-right{margin-left:.3em;width:auto}.svg-inline--fa.fa-border{height:1.5em}.svg-inline--fa.fa-li{width:2em}.svg-inline--fa.fa-fw{width:1.25em}.fa-layers svg.svg-inline--fa{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.fa-layers{display:inline-block;height:1em;position:relative;text-align:center;vertical-align:-.125em;width:1em}.fa-layers svg.svg-inline--fa{-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter,.fa-layers-text{display:inline-block;position:absolute;text-align:center}.fa-layers-text{left:50%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter{background-color:#ff253a;border-radius:1em;-webkit-box-sizing:border-box;box-sizing:border-box;color:#fff;height:1.5em;line-height:1;max-width:5em;min-width:1.5em;overflow:hidden;padding:.25em;right:0;text-overflow:ellipsis;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-bottom-right{bottom:0;right:0;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom right;transform-origin:bottom right}.fa-layers-bottom-left{bottom:0;left:0;right:auto;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom left;transform-origin:bottom left}.fa-layers-top-right{right:0;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-top-left{left:0;right:auto;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top left;transform-origin:top left}.fa-lg{font-size:1.33333em;line-height:.75em;vertical-align:-.0667em}.fa-xs{font-size:.75em}.fa-sm{font-size:.875em}.fa-1x{font-size:1em}.fa-2x{font-size:2em}.fa-3x{font-size:3em}.fa-4x{font-size:4em}.fa-5x{font-size:5em}.fa-6x{font-size:6em}.fa-7x{font-size:7em}.fa-8x{font-size:8em}.fa-9x{font-size:9em}.fa-10x{font-size:10em}.fa-fw{text-align:center;width:1.25em}.fa-ul{list-style-type:none;margin-left:2.5em;padding-left:0}.fa-ul>li{position:relative}.fa-li{left:-2em;position:absolute;text-align:center;width:2em;line-height:inherit}.fa-border{border:solid .08em #eee;border-radius:.1em;padding:.2em .25em .15em}.fa-pull-left{float:left}.fa-pull-right{float:right}.fa.fa-pull-left,.fab.fa-pull-left,.fal.fa-pull-left,.far.fa-pull-left,.fas.fa-pull-left{margin-right:.3em}.fa.fa-pull-right,.fab.fa-pull-right,.fal.fa-pull-right,.far.fa-pull-right,.fas.fa-pull-right{margin-left:.3em}.fa-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}.fa-pulse{-webkit-animation:fa-spin 1s infinite steps(8);animation:fa-spin 1s infinite steps(8)}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.fa-rotate-90{-webkit-transform:rotate(90deg);transform:rotate(90deg)}.fa-rotate-180{-webkit-transform:rotate(180deg);transform:rotate(180deg)}.fa-rotate-270{-webkit-transform:rotate(270deg);transform:rotate(270deg)}.fa-flip-horizontal{-webkit-transform:scale(-1,1);transform:scale(-1,1)}.fa-flip-vertical{-webkit-transform:scale(1,-1);transform:scale(1,-1)}.fa-flip-horizontal.fa-flip-vertical{-webkit-transform:scale(-1,-1);transform:scale(-1,-1)}:root .fa-flip-horizontal,:root .fa-flip-vertical,:root .fa-rotate-180,:root .fa-rotate-270,:root .fa-rotate-90{-webkit-filter:none;filter:none}.fa-stack{display:inline-block;height:2em;position:relative;width:2.5em}.fa-stack-1x,.fa-stack-2x{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.svg-inline--fa.fa-stack-1x{height:1em;width:1.25em}.svg-inline--fa.fa-stack-2x{height:2em;width:2.5em}.fa-inverse{color:#fff}.sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.sr-only-focusable:active,.sr-only-focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}</style><link href="https://ssafy2018.github.io/public/Topic2/" rel="canonical">
+
+
+
+
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "",
+      "url": "https://ssafy2018.github.io/public",
+      "sameAs": null
+    }
+  </script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<link title="SSAFY 2018-2019 Feed" href="/public/feed.xml" rel="alternate" type="application/atom+xml">
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link href="/public/assets/css/main.css" rel="stylesheet">
+
+<!--[if lte IE 9]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  <style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head>
+
+  <body class="layout--default" style="margin-bottom: 181.66px;">
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    <div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav class="greedy-nav" id="site-nav">
+        <a class="site-title" href="/public/">SSAFY 2018-2019</a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/public/Markdown-Table/">Markdown 문법</a>
+            </li><li class="masthead__menu-item">
+              <a href="/public/GitPitch-Table/">GitPitch 문법</a>
+            </li><li class="masthead__menu-item">
+              <a href="https://gitpitch.com/ssafy2018/public">GitPitch 예제</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button" count="0">
+          <span class="visually-hidden">Toggle Menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+<div class="initial-content">
+
+      <p><img alt="Topic 2" src="/public/images/topic2.png"></p>
+
+
 
 <h1 id="ssafy-start-camp-챗봇-퀘스트">SSAFY Start Camp 챗봇 퀘스트</h1>
 
+
+
 <p>서울_9_장진원, https://github.com/alpdog</p>
 
+
+
 <h2 id="i-스펙specification">I. 스펙(Specification)</h2>
+
 <hr>
+
+
 
 <p>구현된 어플리케이션의 주요 기능</p>
+
 <h4 id="1- 롤 전적 확인 기능-1">(1) 롤 전적 확인 기능</h4>
+
 <ul>
+
   <li>롤 전적 사이트에서 크롤링을 하여 상대방의 전적을 확인한다.</li>
+
   <li>그 외에 상대방의 주요 포지션 등을 확인한다.</li>
+
 </ul>
+
+
 
 <h2 id="ii-회고retrospective">II. 회고(Retrospective)</h2>
+
 <hr>
+
+
 
 <p>어플리케이션 구현 과정에서의 어려움과 문제점</p>
+
 <ul>
+
   <li>데이터를 크롤링 할 때 주기적으로 바뀌는 정보(스코어, kda 등)를 얻어오는 것이 어려움을 겪었다.</li>
+
 </ul>
+
+
 
 <h3 id="iii-보완-계획feedback">III. 보완 계획(Feedback)</h3>
+
 <hr>
 
+
+
 <p>현재 미완성이지만 추가로 구현할 기능 및 기존 문제점 보완 계획</p>
+
 <h4 id="1- 리플레이 저장 기능-1">(1) 리플레이 저장 기능</h4>
+
 <ul>
+
   <li> 경기 결과, 좋은 스코어를 받은 경우 리플레이를 자동 저장한다.</li>
+
 </ul>
+
+
+
+    </div>
+
+
+    
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+
+    <li><a href="/public/feed.xml"><svg xmlns="http://www.w3.org/2000/svg" class="svg-inline--fa fa-rss-square fa-w-14 fa-fw" role="img" aria-hidden="true" viewBox="0 0 448 512" data-fa-i2svg="" data-icon="rss-square" data-prefix="fas"><path fill="currentColor" d="M 400 32 H 48 C 21.49 32 0 53.49 0 80 v 352 c 0 26.51 21.49 48 48 48 h 352 c 26.51 0 48 -21.49 48 -48 V 80 c 0 -26.51 -21.49 -48 -48 -48 Z M 112 416 c -26.51 0 -48 -21.49 -48 -48 s 21.49 -48 48 -48 s 48 21.49 48 48 s -21.49 48 -48 48 Z m 157.533 0 h -34.335 c -6.011 0 -11.051 -4.636 -11.442 -10.634 c -5.214 -80.05 -69.243 -143.92 -149.123 -149.123 c -5.997 -0.39 -10.633 -5.431 -10.633 -11.441 v -34.335 c 0 -6.535 5.468 -11.777 11.994 -11.425 c 110.546 5.974 198.997 94.536 204.964 204.964 c 0.352 6.526 -4.89 11.994 -11.425 11.994 Z m 103.027 0 h -34.334 c -6.161 0 -11.175 -4.882 -11.427 -11.038 c -5.598 -136.535 -115.204 -246.161 -251.76 -251.76 C 68.882 152.949 64 147.935 64 141.774 V 107.44 c 0 -6.454 5.338 -11.664 11.787 -11.432 c 167.83 6.025 302.21 141.191 308.205 308.205 c 0.232 6.449 -4.978 11.787 -11.432 11.787 Z" /></svg><!-- <i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> --> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">© 2018 SSAFY 2018-2019. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/public/assets/js/main.min.js"></script>
+  <script src="https://use.fontawesome.com/releases/v5.5.0/js/all.js" defer="" crossorigin="anonymous" integrity="sha384-GqVMZRt5Gn7tB9D9q7ONtcp4gtHIUEW/yG7h98J7IpE3kpi+srfFyyB/04OV6pG0"></script>
+
+
+
+
+
+
+
+
+  
+
+</body></html>
