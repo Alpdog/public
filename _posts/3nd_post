@@ -1,5 +1,4 @@
-<div class="initial-content">
-      <p><img alt="Topic 2" src="/public/images/topic2.png"></p>
+<p><img alt="Topic 2" src="/public/images/topic2.png"></p>
 
 <h1 id="ssafy-start-camp-챗봇-퀘스트">SSAFY Start Camp 챗봇 퀘스트</h1>
 
@@ -31,5 +30,3 @@
 <ul>
   <li> 경기 결과, 좋은 스코어를 받은 경우 리플레이를 자동 저장한다.</li>
 </ul>
-
-    </div>
